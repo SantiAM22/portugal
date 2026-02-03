@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+img {
+    width: 200px;
+    height: 100px;
+}
+.img h2 {
+}
+.img2 {
+    width: 200px;
+    height: 100px;
+    min-width: 200px;
+    min-height: 100px;
+    max-width: 200px;
+    max-height: 100px;
+}
+
+
+.img1 {
+    min-width: 1000px;
+    min-height: 500px;
+    max-width: 1000px;
+}
+
+table {
+    width: 1000px;
+    height: auto;
+    padding-left: auto;
+    padding-right: auto;
+    background-color: #1595BC;
+    border: 5px solid #111EB3;
+    border-radius: 10px;
+}
+.center {
+    text-align: center;
+    font-style: italic;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 75px;@charset "utf-8";
+/* CSS Document */
+
