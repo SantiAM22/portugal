@@ -37,5 +37,11 @@ table {
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
     font-size: 75px;@charset "utf-8";
 /* CSS Document */
+    body {
+   background-image: url('castillo.jpg');
+   background-size: cover; /* hace que la imagen cubra toda la pantalla */
+
+}
+
 
 
